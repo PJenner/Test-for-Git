@@ -1,1 +1,4 @@
+
 This is a broken file copy:
+Let's make thi s break!
+conflicts-ahoy
